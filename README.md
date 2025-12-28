@@ -6,7 +6,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 ## 🔥 Streak Progress
 
 - ✅ Day 001 — Meeting Rooms III (Heaps + Greedy)
-
+- ✅ Day 002 — Count Negative Numbers in a Sorted Matrix (Matrix Traversal)
+  
 ## 🧠 Focus Areas
 - Data Structures & Algorithms
 - Problem-solving consistency
