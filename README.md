@@ -8,7 +8,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 001 — Meeting Rooms III (Heaps + Greedy)
 - ✅ Day 002 — Count Negative Numbers in a Sorted Matrix (Matrix Traversal)
 - ✅ Day 003 — Pyramid Transition Matrix (DFS + Backtracking)
-  
+- ✅ Day 004 — Magic Squares in Grid (Grid Traversal + Pruning)
+    
 ## 🧠 Focus Areas
 - Data Structures & Algorithms
 - Problem-solving consistency
