@@ -12,6 +12,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 005 — Last Day Where You Can Still Cross (Binary Search + BFS)
 - ✅ Day 006 — Plus One (Array Traversal)
 - ✅ Day 007 — N-Repeated Element in Size 2N Array (Hashing)
+- ✅ Day 008 — Number of Ways to Paint N × 3 Grid (DP)
+
 
 
     
