@@ -14,6 +14,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 007 — N-Repeated Element in Size 2N Array (Hashing)
 - ✅ Day 008 — Number of Ways to Paint N × 3 Grid (DP)
 - ✅ Day 009 — Four Divisors (Math + Divisor Counting)
+- ✅ Day 010 — Maximum Matrix Sum (Greedy + Parity Logic)
+
 
 
 
