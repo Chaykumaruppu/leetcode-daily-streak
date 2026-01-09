@@ -17,6 +17,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 010 — Maximum Matrix Sum (Greedy + Parity Logic)
 - ✅ Day 011 — Maximum Level Sum of a Binary Tree (BFS / Level Order)
 - ✅ Day 012 — Maximum Product of Splitted Binary Tree (DFS + Tree DP)
+- ✅ Day 013 — Max Dot Product of Two Subsequences (Dynamic Programming)
+
 
 
 
