@@ -1,4 +1,4 @@
-# Day 16 – Maximal Rectangle (LeetCode)
+# Day 16 – Maximal Rectangle-85
 
 ## Approach
 - Treat each row as a histogram
