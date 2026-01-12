@@ -21,6 +21,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 014 — Smallest Subtree with all the Deepest Nodes (DFS + Tree Depth)
 - ✅ Day 015 — Minimum ASCII Delete Sum for Two Strings (Dynamic Programming)
 - ✅ Day 016 — Maximal Rectangle (Histogram + Stack)
+- ✅ Day 017 — Minimum Time Visiting All Points (Greedy + Math)
+
 
 
 
