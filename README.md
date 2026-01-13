@@ -22,6 +22,8 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 015 — Minimum ASCII Delete Sum for Two Strings (Dynamic Programming)
 - ✅ Day 016 — Maximal Rectangle (Histogram + Stack)
 - ✅ Day 017 — Minimum Time Visiting All Points (Greedy + Math)
+- ✅ Day 018 — Separate Squares I (Binary Search + Geometry)
+
 
 
 
