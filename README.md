@@ -24,6 +24,7 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 017 — Minimum Time Visiting All Points (Greedy + Math)
 - ✅ Day 018 — Separate Squares I (Binary Search + Geometry)
 - ✅ Day 019 — Separate Squares II (Sweep Line + Segment Tree + Geometry)
+- ✅ Day 020 — Maximize Area of Square Hole in Grid (Greedy + Consecutive Gaps)
 
 
 
