@@ -26,6 +26,7 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 019 — Separate Squares II (Sweep Line + Segment Tree + Geometry)
 - ✅ Day 020 — Maximize Area of Square Hole in Grid (Greedy + Consecutive Gaps)
 - ✅ Day 021 — Maximum Square Area by Removing Fences From a Field (Geometry + Gap Analysis)
+- ✅ Day 022 — Find the Largest Area of Square Inside Two Rectangles (Geometry + Brute Force)
 
 
 
