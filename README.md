@@ -29,6 +29,7 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 022 — Find the Largest Area of Square Inside Two Rectangles (Geometry + Brute Force)
 - ✅ Day 023 — Largest Magic Square (Prefix Sums + Matrix Validation)
 - ✅ Day 024 — Maximum Side Length of a Square with Sum ≤ Threshold (Prefix Sum + Binary Search)
+- ✅ Day 025 — Construct the Minimum Bitwise Array I (Bit Manipulation)
 
 
 
