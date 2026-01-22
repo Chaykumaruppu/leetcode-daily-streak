@@ -1,4 +1,4 @@
-# Day 028 – Minimum Pair Removal to Sort Array I (LeetCode-3507)
+# Day 027 – Minimum Pair Removal to Sort Array I (LeetCode-3507)
 
 ## 🧩 Problem Overview
 You are given an integer array `nums`. You can repeatedly:
