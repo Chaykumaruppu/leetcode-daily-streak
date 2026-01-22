@@ -31,6 +31,7 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 024 — Maximum Side Length of a Square with Sum ≤ Threshold (Prefix Sum + Binary Search)
 - ✅ Day 025 — Construct the Minimum Bitwise Array I (Bit Manipulation)
 - ✅ Day 026 — Construct the Minimum Bitwise Array II (Bit Manipulation)
+- ✅ Day 028 — Minimum Pair Removal to Sort Array I (Greedy Simulation)
 
 
 
