@@ -34,6 +34,7 @@ The goal is to maintain a consistent streak while mastering core DSA patterns.
 - ✅ Day 027 — Minimum Pair Removal to Sort Array I (Greedy Simulation)
 - ✅ Day 028 — Minimum Pair Removal to Sort Array II (Heap + Linked List Simulation)
 - ✅ Day 029 — Minimize Maximum Pair Sum in Array (Greedy + Two Pointers)
+- ✅ Day 030 — Minimum Difference Between Highest and Lowest of K Scores (Sorting + Sliding Window)
 
 
 
